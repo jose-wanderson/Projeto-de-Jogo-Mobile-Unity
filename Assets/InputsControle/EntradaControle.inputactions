@@ -1,0 +1,54 @@
+{
+    "name": "EntradaControle",
+    "maps": [
+        {
+            "name": "Jogador",
+            "id": "306fa20c-4c07-4ae3-8b1e-fbdd5b1cdd22",
+            "actions": [
+                {
+                    "name": "Mover",
+                    "type": "Value",
+                    "id": "04996b28-28a1-4d26-95fa-59e0b3ba1983",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "GirarCamera",
+                    "type": "Value",
+                    "id": "a49f165a-d18d-4232-ae6a-b051353ead7e",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "281508c9-fdac-4881-9eb0-1d53965bf0f4",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mover",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a922bd9c-1254-4cf8-91a9-f58a4718a4f4",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarCamera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
