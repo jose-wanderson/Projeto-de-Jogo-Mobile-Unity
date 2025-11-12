@@ -27,7 +27,7 @@ O foco principal é oferecer uma experiência envolvente e otimizada para dispos
 <img src="Projeto-de-Jogo-Mobile-Unity/4.jpeg" width="500">
 
 ### Cena de Vitória
-<img src="Projeto-de-Jogo-Mobile-Unity/5.jpeg" width="500">
+<img src="5.jpeg" width="500">
 
 ---
 
