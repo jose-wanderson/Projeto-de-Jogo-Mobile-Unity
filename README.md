@@ -15,7 +15,7 @@ O foco principal é oferecer uma experiência envolvente e otimizada para dispos
 ## 📸 Imagens do Jogo
 
 ### Tela Inicial
-<img src="1.jpeg" width="500">
+<img src="5.jpeg" width="500">
 
 ### Gameplay 1
 <img src="2.jpeg" width="500">
@@ -25,9 +25,6 @@ O foco principal é oferecer uma experiência envolvente e otimizada para dispos
 
 ### Personagem Principal
 <img src="4.jpeg" width="500">
-
-### Cena de Vitória
-<img src="5.jpeg" width="500">
 
 ---
 
