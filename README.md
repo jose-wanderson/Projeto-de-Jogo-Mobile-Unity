@@ -1,1 +1,49 @@
-⚠️ Aviso de direitos autorais: Este projeto é apenas para exibição. Todos os direitos reservados a José Wanderson. Nenhum uso, cópia ou modificação é permitido sem autorização.
+# 🎮 Projeto de Jogo Mobile Unity
+
+Bem-vindo ao meu projeto desenvolvido na **Unity**!  
+Este jogo foi criado com foco em jogabilidade divertida e visual colorido, utilizando as ferramentas da **Kranell Studios**.
+
+---
+
+## 🧸 Sobre o Projeto
+
+Este jogo é um protótipo mobile com jogabilidade fluida, personagens carismáticos e desafios crescentes.  
+O foco principal é oferecer uma experiência envolvente e otimizada para dispositivos móveis.
+
+---
+
+## 📸 Imagens do Jogo
+
+### Tela Inicial
+<img src="Projeto-de-Jogo-Mobile-Unity/1.jpeg" width="500">
+
+### Gameplay 1
+<img src="Projeto-de-Jogo-Mobile-Unity/2.jpeg" width="500">
+
+### Gameplay 2
+<img src="Projeto-de-Jogo-Mobile-Unity/3.jpeg" width="500">
+
+### Personagem Principal
+<img src="Projeto-de-Jogo-Mobile-Unity/4.jpeg" width="500">
+
+### Cena de Vitória
+<img src="Projeto-de-Jogo-Mobile-Unity/5.jpeg" width="500">
+
+---
+
+## ⚠️ Direitos Autorais
+
+> © 2025 José Wanderson — Todos os direitos reservados.  
+> Este projeto é disponibilizado apenas para **exibição pública**.  
+> Nenhuma parte do código, arte ou conteúdo pode ser copiada, modificada ou redistribuída sem autorização prévia.
+
+---
+
+## 💬 Contato
+
+📧 **Email:** [seu.email@exemplo.com]  
+💼 **LinkedIn:** [seu-linkedin]  
+🎮 **Kranell Studios**
+
+---
+
