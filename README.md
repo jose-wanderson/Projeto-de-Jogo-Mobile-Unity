@@ -1,7 +1,7 @@
 # 🎮 Projeto de Jogo Mobile Unity
 
 Bem-vindo ao meu projeto desenvolvido na **Unity**!  
-Este jogo foi criado com foco em jogabilidade divertida e visual colorido, utilizando as ferramentas da **Kranell Studios**.
+Este jogo foi criado com foco em jogabilidade divertida e visual colorido.
 
 ---
 
@@ -15,16 +15,16 @@ O foco principal é oferecer uma experiência envolvente e otimizada para dispos
 ## 📸 Imagens do Jogo
 
 ### Tela Inicial
-<img src="Projeto-de-Jogo-Mobile-Unity/1.jpeg" width="500">
+<img src="1.jpeg" width="500">
 
 ### Gameplay 1
-<img src="Projeto-de-Jogo-Mobile-Unity/2.jpeg" width="500">
+<img src="2.jpeg" width="500">
 
 ### Gameplay 2
-<img src="Projeto-de-Jogo-Mobile-Unity/3.jpeg" width="500">
+<img src="3.jpeg" width="500">
 
 ### Personagem Principal
-<img src="Projeto-de-Jogo-Mobile-Unity/4.jpeg" width="500">
+<img src="4.jpeg" width="500">
 
 ### Cena de Vitória
 <img src="5.jpeg" width="500">
@@ -41,9 +41,7 @@ O foco principal é oferecer uma experiência envolvente e otimizada para dispos
 
 ## 💬 Contato
 
-📧 **Email:** [seu.email@exemplo.com]  
-💼 **LinkedIn:** [seu-linkedin]  
-🎮 **Kranell Studios**
+📧 **Email:** josewanderson10@gmail.com   
 
 ---
 
